@@ -19,4 +19,6 @@ vk1D & l::Right
 vk1D & a::Home
 vk1D & e::End
 vk1D & n::BS
+vk1D & b::BS
 vk1D & m::Del
+vk1D & d::Del
