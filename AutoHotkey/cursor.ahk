@@ -16,9 +16,13 @@ vk1D & l::Right
 ; ----------------------------------
 ; Home/End/BS/Del
 ; ----------------------------------
-vk1D & a::Home
+vk1D & a::Left
+vk1D & s::Down
+vk1D & w::Up
+vk1D & d::Right
+vk1D & q::Home
 vk1D & e::End
 vk1D & n::BS
-vk1D & b::BS
+vk1D & z::BS
 vk1D & m::Del
-vk1D & d::Del
+vk1D & x::Del
