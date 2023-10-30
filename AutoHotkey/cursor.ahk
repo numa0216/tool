@@ -26,3 +26,4 @@ vk1D & n::BS
 vk1D & z::BS
 vk1D & m::Del
 vk1D & x::Del
+vk1D & Space::Enter
